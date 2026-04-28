@@ -1,0 +1,21 @@
+---
+import { Home, List, Bell, User } from 'lucide-react';
+---
+<nav class="md:hidden fixed bottom-0 left-0 w-full flex justify-around items-stretch h-20 bg-white border-t-2 border-black z-50">
+  <a href="#" class="flex flex-col items-center justify-center bg-brand-orange text-white p-2 border-r-2 border-black flex-1">
+    <Home className="h-6 w-6" />
+    <span class="font-headline text-[10px] font-black uppercase mt-1">Home</span>
+  </a>
+  <a href="#" class="flex flex-col items-center justify-center text-brand-black p-2 flex-1 border-r-2 border-black">
+    <List className="h-6 w-6" />
+    <span class="font-headline text-[10px] font-black uppercase mt-1">Reviews</span>
+  </a>
+  <a href="#" class="flex flex-col items-center justify-center text-brand-black p-2 flex-1 border-r-2 border-black">
+    <Bell className="h-6 w-6" />
+    <span class="font-headline text-[10px] font-black uppercase mt-1">Alerts</span>
+  </a>
+  <a href="#" class="flex flex-col items-center justify-center text-brand-black p-2 flex-1">
+    <User className="h-6 w-6" />
+    <span class="font-headline text-[10px] font-black uppercase mt-1">Account</span>
+  </a>
+</nav>

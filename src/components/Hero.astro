@@ -1,0 +1,47 @@
+---
+import { Search } from 'lucide-react';
+---
+<section class="py-16 md:py-24 border-b-2 border-black">
+  <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+    <div class="space-y-8">
+      <h1 class="text-7xl md:text-8xl lg:text-9xl leading-[0.9] flex flex-col">
+        <span>UNFILTERED</span>
+        <span class="text-brand-orange">TRUTH</span>
+      </h1>
+      <p class="text-xl md:text-2xl text-zinc-600 max-w-xl font-medium leading-tight">
+        The platform that holds hosts accountable. Read real experiences from travelers who encountered the unexpected. No sugar-coating, just data.
+      </p>
+      
+      <div class="flex flex-col sm:flex-row gap-0 pt-4">
+        <div class="relative flex-grow">
+          <input 
+            class="w-full h-16 bg-white border-2 border-black px-6 font-headline text-lg focus:ring-0 focus:border-brand-orange placeholder:text-zinc-400" 
+            placeholder="Search Host Name or ID..." 
+            type="text" 
+          />
+          <Search className="absolute right-6 top-5 text-zinc-400" />
+        </div>
+        <button class="h-16 px-12 bg-brand-orange text-white font-headline text-xl uppercase border-y-2 border-r-2 border-l-2 sm:border-l-0 border-black hover:bg-orange-600">
+          Search
+        </button>
+      </div>
+    </div>
+    
+    <div class="relative aspect-square md:aspect-video lg:aspect-square bg-zinc-200 border-2 border-black overflow-hidden group">
+      <img 
+        src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?q=80&w=2000&auto=format&fit=crop" 
+        alt="Interior" 
+        class="w-full h-full object-cover grayscale opacity-90 transition-transform duration-700 group-hover:scale-105"
+        referrerpolicy="no-referrer"
+      />
+      <div class="absolute inset-0 bg-brand-black/10 mix-blend-multiply"></div>
+      <div class="absolute inset-x-0 bottom-12 flex justify-center">
+         <div class="bg-brand-orange p-6 border-2 border-black shadow-brutalist -rotate-2">
+           <span class="text-white font-headline font-black uppercase text-2xl md:text-3xl lg:text-4xl">
+             48,203 REPORTS FILED
+           </span>
+         </div>
+      </div>
+    </div>
+  </div>
+</section>

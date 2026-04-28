@@ -1,0 +1,22 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Hero from '../components/Hero.astro';
+import StatsGrid from '../components/StatsGrid.astro';
+import ReviewsFeed from '../components/ReviewsFeed.tsx';
+import CTASection from '../components/CTASection.astro';
+import Footer from '../components/Footer.astro';
+import MobileNav from '../components/MobileNav.astro';
+---
+
+<Layout title="NHR - Negative Host Reviews">
+	<Header />
+	<main class="max-w-7xl mx-auto px-6">
+		<Hero />
+		<StatsGrid />
+		<ReviewsFeed client:load />
+		<CTASection />
+	</main>
+	<Footer />
+	<MobileNav />
+</Layout>

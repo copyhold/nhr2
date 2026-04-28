@@ -1,0 +1,21 @@
+---
+import { Search } from 'lucide-react';
+---
+<header class="sticky top-0 z-50 w-full border-b-2 border-black bg-white px-6 py-4 flex justify-between items-center">
+  <div class="flex items-center gap-2">
+    <img src="input_file_0.png" alt="NHR Logo" class="h-10 w-auto" referrerpolicy="no-referrer" />
+  </div>
+  
+  <nav class="hidden md:flex gap-10 items-center font-headline font-bold uppercase tracking-tight">
+    <a href="#" class="text-brand-orange">Home</a>
+    <a href="#" class="hover:text-brand-orange transition-colors">Reviews</a>
+    <a href="#" class="hover:text-brand-orange transition-colors">Alerts</a>
+  </nav>
+
+  <div class="flex items-center gap-6">
+    <Search className="h-6 w-6 cursor-pointer" />
+    <button class="hidden md:block bg-brand-black text-white px-6 py-2 font-headline text-sm uppercase tracking-widest hover:bg-zinc-800">
+      Join Network
+    </button>
+  </div>
+</header>

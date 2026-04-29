@@ -1,11 +1,13 @@
 ---
 import { Search } from 'lucide-react';
+import {Image } from 'astro:assets';
+import logo from '../../public/assets/neg-h-review.svg'
 ---
 <header class="sticky top-0 z-50 w-full border-b-2 border-black bg-white px-6 py-4 flex justify-between items-center">
   <div class="flex items-center gap-2">
-    <img src="input_file_0.png" alt="NHR Logo" class="h-10 w-auto" referrerpolicy="no-referrer" />
+    <Image src={logo}  alt="NHR Logo" class="h-10 w-auto" />
   </div>
-  
+
   <nav class="hidden md:flex gap-10 items-center font-headline font-bold uppercase tracking-tight">
     <a href="#" class="text-brand-orange">Home</a>
     <a href="#" class="hover:text-brand-orange transition-colors">Reviews</a>

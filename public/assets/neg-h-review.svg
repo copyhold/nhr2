@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="118.64776mm"
+   height="60.030781mm"
+   viewBox="0 0 118.64776 60.030781"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="neg-h-review.svg"
+   inkscape:export-filename="neg-h-review.png"
+   inkscape:export-xdpi="256.89487"
+   inkscape:export-ydpi="256.89487"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.0184458"
+     inkscape:cx="129.60925"
+     inkscape:cy="230.74375"
+     inkscape:window-width="1512"
+     inkscape:window-height="921"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="53.495782,285.20758"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="51.266652,248.86311"
+       orientation="0,-1"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="121.49934,232.55599"
+       orientation="0,-1"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="123.75477,296.85731"
+       orientation="0,-1"
+       id="guide5"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-55.731467,-29.882567)">
+    <path
+       id="path1"
+       style="font-weight:bold;font-size:22.5778px;line-height:28.3915px;font-family:'.Damascus PUA';-inkscape-font-specification:'.Damascus PUA Bold';fill:#000000;stroke:none;stroke-width:0.625423"
+       d="m 148.9055,52.610868 c 0,-0.896962 -0.21664,-1.66578 -0.6501,-2.306454 -0.43341,-0.640675 -1.17771,-1.145208 -2.23298,-1.513599 -0.73489,-0.256272 -1.59226,-0.408432 -2.57214,-0.456479 -0.97987,-0.06407 -0.83922,-0.09611 -2.13943,-0.09611 h -2.64821 v 9.6342 h 2.05464 c 1.73362,0 1.90388,-0.07207 3.07218,-0.216188 1.1683,-0.144118 2.14817,-0.472466 2.93961,-0.985027 0.75374,-0.496535 1.30021,-1.041115 1.6394,-1.633745 0.35802,-0.608638 0.53703,-1.417491 0.53703,-2.426556 z m 13.25357,18.313466 -8.93874,7.053281 -11.47575,-13.666361 h -3.08194 v 13.666361 h -10.7974 V 41.655262 h 18.20294 c 2.48735,0 4.62609,0.120124 6.41625,0.360371 1.79015,0.240263 2.82689,0.760814 4.3909,1.561652 1.58286,0.800855 2.83595,1.841957 3.75929,3.123305 0.94219,1.265354 1.41328,3.38821 1.41328,5.310234 0,2.64281 -0.72549,4.797091 -2.17645,6.462841 -1.43211,1.665767 -2.84571,2.522068 -5.52152,3.627242 z"
+       sodipodi:nodetypes="ssccsccssccsscccccccssccsccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.256617"
+       d="m 114.53557,30.041431 59.7152,-0.03049 -0.0672,59.706713 -59.67596,0.03652 z"
+       id="path4"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="stroke:#000000;stroke-width:0.257559"
+       d="M 55.860247,30.042128 H 115.60268 V 89.784569 H 55.860247 Z"
+       id="rect2"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="font-weight:bold;font-size:22.5778px;line-height:28.3915px;font-family:'.Damascus PUA';-inkscape-font-specification:'.Damascus PUA Bold';fill:#ffffff;stroke:none;stroke-width:0.607659"
+       d="M 102.78681,78.019865 H 88.869258 V 64.400438 H 77.719412 V 78.019865 H 67.597571 V 41.558 H 77.719412 V 55.061434 H 88.869258 V 41.558 h 13.917552 z"
+       id="text1"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+</svg>

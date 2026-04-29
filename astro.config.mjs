@@ -4,6 +4,8 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://copyhold.github.io',
+  base: '/nhr2',
   integrations: [react()],
   vite: {
     plugins: [tailwindcss()],
